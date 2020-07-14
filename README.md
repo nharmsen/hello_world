@@ -3,5 +3,5 @@ first repo
 
 addmoreline add more content
 
-## I changed this title
+## Test configuration change
 and I made a pull request
